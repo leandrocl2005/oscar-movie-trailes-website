@@ -12,7 +12,7 @@ Oscar Trailers is a automated generated webpage to watch movie trailer of oscars
 
   - This project is a 3.7.2 Python project. So, you need install Python 3.7.2
   - Make download or clone this repository
-  - Enter on *ud036_StarterCode* folder
+  - Enter on *oscar-movie-trailes-website* folder
   - Install the requirements
   - Execute *entertainment_center.py* to create the *oscars_2010_to_2017.html*
 
@@ -32,11 +32,8 @@ In this project the list of movie names, description, url trailers and images wa
 ### Delete some things and prepare the environment
 
   - Make download or clone this repository
-  - Enter on *ud036_StarterCode* folder
-  - delete the following files (you will create them):
-  -- *movie_images* folder
-  -- *initial_database_movie.csv*
-  -- *final_database_movie.csv*
+  - Enter on *oscar-movie-trailes-website* folder
+  - delete the following files (you will create them): *movie_images* folder, *initial_database_movie.csv*, *final_database_movie.csv*
   - Install the requirements
 
 ### Create the initial movie database
